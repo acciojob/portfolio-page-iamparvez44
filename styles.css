@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+img{
+	border-radius: 50%;
+	height: 200px;
+}
+h1{
+	color: blue;
+}
